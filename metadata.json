@@ -1,0 +1,8 @@
+{
+  "name": "Aura Dex Shop",
+  "description": "ร้านจำหน่ายไอเทมและบริการ Roblox แบบเรียบง่าย สะอาด ใช้งานสะดวก รองรับมือถือและ iPad",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
